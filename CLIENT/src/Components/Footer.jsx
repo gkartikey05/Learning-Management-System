@@ -1,8 +1,8 @@
 import {
   BsFacebook,
+  BsInstagram,
   BsLinkedin,
   BsTwitterX,
-  BsInstagram,
 } from "react-icons/bs";
 
 const Footer = () => {
